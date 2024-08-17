@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Samantha Arabella Regencia.
+🔭 I'm currently working on to build the foundations of my coding journey stronger. 
+🌱 I'm currently learning HTML, CSS, and Java
+🤔 I’m looking for help with how to improve and learn more.
+📫 How to reach me: regencia.samanthaarabella@gmail.com
+⚡ Fun fact: I love arts and designing too!
 
 <!--
 **samantha-arabella-r/samantha-arabella-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
